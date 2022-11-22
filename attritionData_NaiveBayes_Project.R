@@ -1,10 +1,10 @@
 # DATA MINING AND BUSINESS INTELLIGENCE PROJECT
-# Kamil Çaðatay Filburnu
+# Kamil Ã‡aÃ°atay Filburnu
 
 ### MODEL I
 # Model I that is we did it in classroom section.
 
-Firstly, we should import our libraries that we need.
+# Firstly, we should import our libraries that we need.
 
 library(modeldata)
 library(e1071)
