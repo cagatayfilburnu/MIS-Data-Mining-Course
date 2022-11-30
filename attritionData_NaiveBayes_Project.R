@@ -120,7 +120,7 @@ confusionMatrix(ctable2)
 # Consequently, according to our Confusion Matrix for Task 1, we have 0.8567 accuracy. 
 # So, Model 2 is better than model that we did in lesson (0.7747 accuracy)
 
------------------------------------------------------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------------------------------------------------------
   
 ### MODEL III
 # Task 2: Convert numeric variables to categorical ones. build model and test it. get confusion matrix results.
